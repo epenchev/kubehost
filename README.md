@@ -1,3 +1,7 @@
-# kube-systemd
-<br>
-<img src="https://github.com/epenchev/kube-systemd/blob/main/ksd-logo.png" width="123" height="144">
+<p align="center">
+  <img src="https://github.com/epenchev/kube-systemd/blob/main/hkb-logo-rname.png">
+</p>
+
+---
+
+Manage your installed based <b>systemd</b> workloads from K8s.  
