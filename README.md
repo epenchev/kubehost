@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/epenchev/kuberack/blob/main/kuberack-logo.png">
+  <img src="https://github.com/epenchev/kuberack/blob/main/kuberack-logo.png" width="375" height="147">
 </p>
 
 ---
